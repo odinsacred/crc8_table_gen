@@ -1,0 +1,8 @@
+[Rr]elease/
+[Dd]ebug/
+dist/
+nbproject/
+build/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
